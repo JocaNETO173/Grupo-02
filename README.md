@@ -1,9 +1,9 @@
 # Grupo-02
 
 # Equipe:
-Joaquim Custódio Neto
-João Pedro Kudlake
-Gregory Elias de Almeida
+Joaquim Custódio Neto <br>
+João Pedro Kudlake <br>
+Gregory Elias de Almeida <br>
 Vinícius de Moraes Oliveira Vidal
 
 # Atividade:
