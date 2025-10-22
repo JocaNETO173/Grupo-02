@@ -1,7 +1,7 @@
 # Grupo-02
 
 # Equipe:
-Joaquim Custódio Neto <br>
+<span style="background-color: cyan; color: red">Joaquim Custódio Neto<span> <br>
 João Pedro Kudlake <br>
 Gregory Elias de Almeida <br>
 Vinícius de Moraes Oliveira Vidal
