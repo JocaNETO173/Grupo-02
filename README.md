@@ -7,4 +7,4 @@ Gregory Elias de Almeida
 Vinícius de Moraes Oliveira Vidal
 
 # Atividade:
-Grupo 05 - Criar um objeto.
+Atividade 05 - Criar um objeto.
